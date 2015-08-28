@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>4DC5E554-5450-43AA-B21C-AA4BA1814B40</string>
+	<key>IDESourceControlProjectName</key>
+	<string>qq粘性图标</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>F3FEDBF9DFC8D722734A678AB7DBC86122DE4094</key>
+		<string>https://github.com/mcmengchen/iOS---Mitchell-Viscous-view.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>qq粘性图标.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>F3FEDBF9DFC8D722734A678AB7DBC86122DE4094</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/mcmengchen/iOS---Mitchell-Viscous-view.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>F3FEDBF9DFC8D722734A678AB7DBC86122DE4094</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>F3FEDBF9DFC8D722734A678AB7DBC86122DE4094</string>
+			<key>IDESourceControlWCCName</key>
+			<string>qq%E7%B2%98%E6%80%A7%E5%9B%BE%E6%A0%87</string>
+		</dict>
+	</array>
+</dict>
+</plist>
